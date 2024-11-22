@@ -14,7 +14,7 @@ void Main() {
         ans+= x;
     }
     cout << ans;
-
+    
 }
 
 int main() {
